@@ -1,4 +1,7 @@
 # OpenJDK
 
-[![Circle CI](https://circleci.com/gh/vektorcloud/openjdk.svg?style=svg)](https://circleci.com/gh/vektorcloud/openjdk)
+![circleci][circleci]
 
+
+
+[circleci]: https://img.shields.io/circleci/project/github/vektorcloud/openjdk.svg "openjdk"
