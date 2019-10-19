@@ -1,6 +1,6 @@
 # OpenJDK
 
-![circleci][circleci]
+[![circleci][circleci]](https://circleci.com/gh/vektorcloud/openjdk)
 
 
 OpenJDK JRE 8 on Alpine base
