@@ -1,4 +1,4 @@
-FROM quay.io/vektorcloud/glibc:latest
+FROM quay.io/vektorcloud/glibc:2.35
 
 ENV JAVA_HOME /usr/lib/jvm/default-jvm
 ENV PATH "$PATH:/usr/lib/jvm/default-jvm/bin:/usr/lib/jvm/default-jvm/jre/bin/"
